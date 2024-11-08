@@ -1,4 +1,5 @@
 # ESP32 Temperature and Humidity Monitoring System
+![image](https://github.com/user-attachments/assets/10f361a7-cf3c-46a4-b306-5222700c374a)
 
 This project connects an ESP32 microcontroller to a temperature and humidity sensor (DHT11), publishes sensor readings to a CloudAMQP MQTT broker, and stores the data in InfluxDB. Additionally, the system integrates with Blynk for real-time monitoring and alerting.
 
